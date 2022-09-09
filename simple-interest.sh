@@ -4,9 +4,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: VIgnesh Kathiresan
+   # Author: Vignesh Kathiresan
    # Additional Authors:
-   # <developervicky>
+   # developervicky
 
    # Input:
    # p, principal amount
